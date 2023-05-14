@@ -3,7 +3,7 @@
 - [Dragging the Papers](https://6e0r89.csb.app/) - To open in Window 
 - [Dragging the Papers](https://cype4u.csb.app/) - To open in Mobile
 
-- a fun project to cretae a web page .
+- a fun project to implement web-development skills.
 - a message for crush to impress with some particular pickup lines.
 
 -------------------------------------------------------------------
